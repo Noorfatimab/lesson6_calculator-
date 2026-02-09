@@ -17,3 +17,6 @@ It is **robust**: handles invalid input without crashing using try/except.
 
 ```bash
 python calculator_lesson6.py
+
+# To View live demo
+click this link: https://colab.research.google.com/drive/1iyRoGIVWhlr3z4DSnSuqSOrZ5ZSYg7tw?usp=sharing 
